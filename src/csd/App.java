@@ -1,6 +1,6 @@
 package csd;
 
-import csd.examples.*;
+import csd.examples.course18112024.Example5;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package csd.examples;
+package csd.examples.course18112024;
 
 public class Example3 {
 
